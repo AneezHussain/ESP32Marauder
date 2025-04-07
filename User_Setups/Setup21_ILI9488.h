@@ -1,3 +1,5 @@
+#define ILI9488_DRIVER
+
 // Change the width and height for your display
 #define TFT_WIDTH  320  // Width of your display
 #define TFT_HEIGHT 480  // Height of your display
