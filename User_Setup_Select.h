@@ -31,7 +31,7 @@
 //#include <User_Setup_dual_nrf24.h>
 //#include <User_Setup_pocket_sdr_2.h>
 
-#include <User_Setups/Setup1_ILI9341.h>  // Setup file configured for my ILI9341
+//#include <User_Setups/Setup1_ILI9341.h>  // Setup file configured for my ILI9341
 //#include <User_Setups/Setup2_ST7735.h>   // Setup file configured for my ST7735
 //#include <User_Setups/Setup3_ILI9163.h>  // Setup file configured for my ILI9163
 //#include <User_Setups/Setup4_S6D02A1.h>  // Setup file configured for my S6D02A1
@@ -54,7 +54,7 @@
 //#include <User_Setups/Setup19_RM68140_Parallel.h>	 // Setup file configured for RM68140 with parallel bus
 
 //#include <User_Setups/Setup20_ILI9488.h>           // Setup file for ESP8266 and ILI9488 SPI bus TFT
-//#include <User_Setups/Setup21_ILI9488.h>           // Setup file for ESP32 and ILI9488 SPI bus TFT
+#include <User_Setups/Setup21_ILI9488.h>           // Setup file for ESP32 and ILI9488 SPI bus TFT
 
 //#include <User_Setups/Setup22_TTGO_T4.h>           // Setup file for ESP32 and TTGO T4 version 1.2
 //#include <User_Setups/Setup22_TTGO_T4_v1.3.h>      // Setup file for ESP32 and TTGO T4 version 1.3
