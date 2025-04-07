@@ -166,11 +166,6 @@
 #define TFT_RST   5  // Reset pin (could connect to RST pin)
 #define TFT_BL   32  // LED back-light (only for ST7789 with backlight control pin)
 
-#define TOUCH_CS 21   // Chip select pin (T_CS) of touch screen
-#define TOUCH_CS 21   // TCS -> Chip select pin (T_CS) of touch screen
-#define TOUCH_CLK 22  // TCK -> Clock pin
-#define TOUCH_DIN 23  // TD1 -> Data in pin
-#define TOUCH_DOUT 19 // TD0 -> Data out pin
 
 //#define TFT_WR 22    // Write strobe for modified Raspberry Pi TFT only
 
